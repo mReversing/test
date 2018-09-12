@@ -1,0 +1,26 @@
+
+## 在此记录一些常用路径和命令
+
+### 打开ssh
+sshd
+
+### 其他软件
+php-fpm
+nginx
+redis-server
+
+### 路径
+sshd :
+/usr/etc/ssh/ssh_config
+
+nginx :
+/usr/etc/nginx
+/usr/logs/error.log
+/usr/var/log/error.log
+/usr/var/log/access.log
+
+php-fpm :
+/usr/var/log/php-fpm.log
+/usr/etc/php-fpm.d/www.config
+
+
