@@ -1,6 +1,20 @@
 
 ## 在此记录一些常用路径和命令
 
+### 有趣的命令 http://os.51cto.com/art/201304/390059.htm
+ - cmatrix
+ - figlet
+ - sl
+ - cowsay
+ - yes
+ - rev (反过来输出字符)
+ - toilet (生成字符文本ascii art)
+ - fortune (未装，随机显示几句话)
+
+### ssh登录欢迎页
+/etc/motd
+/etc/profile
+
 ### 打开ssh
 sshd
 
